@@ -1,7 +1,7 @@
 pipeline {
   agent any
   tools { 
-      maven 'DHT_MVN' 
-      jdk 'DHT_SENSE' 
+      maven 'SDK Man Maven' 
+      jdk 'SDK Man JDK' 
   }
 }
